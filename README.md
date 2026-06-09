@@ -1,6 +1,6 @@
 <!-- Heading -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=2000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1200&lines=Hi+there,+I'm+Nikhil+Kumar+👋;Full-Stack+Software+Engineer;Building+Scalable+%26+Impactful+Solutions;AI%2FML+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=2000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1200&lines=Hi+there,+I'm+Nitish+Kumar+👋;Full-Stack+Software+Engineer;Building+Scalable+%26+Impactful+Solutions;AI%2FML+%26+Cloud+Enthusiast" alt="Typing SVG" />
   <p align="center">
     <a href="https://www.leonitish7.dev/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/leonitish7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -25,22 +25,22 @@
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png"/><br><b>B.Tech CSE & Design</b></td>
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/code.png"/><br><b>Full Stack Engineer</b></td>
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/trophy.png"/><br><b>LeetCode Knight</b></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/light-on.png"/><br><b>200+ DSA Problems</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/light-on.png"/><br><b>150+ DSA Problems</b></td>
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/rocket.png"/><br><b>Production Apps</b></td>
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/coffee.png"/><br><b>Coffee → Code ☕</b></td>
     </tr>
   </table>
   <pre align="center" style="background: #0d1117; padding: 10px; border-radius: 10px; color: #e6edf3; font-family: 'Fira Code', monospace; width: 700px;">
-                                      ┌────────────────────────────────────────────┐
-  🌍 Shipping code from Noida, India  │  ███╗   ██╗██╗██╗  ██╗██╗  ██╗██╗██╗      │
-  🚀 Building Scalable Microservices  │  ████╗  ██║██║██║ ██╔╝██║  ██║██║██║      │
-  💻 Cybersecurity & Linux User       │  ██╔██╗ ██║██║█████╔╝ ███████║██║██║      |
-  ⚡ Building production-grade apps   │  ██║╚██╗██║██║██╔═██╗ ██╔══██║██║██║      |
-  🎯 Open-source & Hackathons Veteran │  ██║ ╚████║██║██║  ██╗██║  ██║██║███████╗ │
-  🕹️ Gaming & AI/ML Enthusiast        │  ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝ │
-                                      └────────────────────────────────────────────┘
+                                            ┌────────────────────────────────────────────┐
+│ 🌍 Shipping code from Noida, India         │  ███╗   ██╗██╗████████╗██╗███████╗██╗  ██╗
+│ 🚀 Building Scalable Microservices         │  ████╗  ██║██║╚══██╔══╝██║██╔════╝██║  ██║
+│ 💻 Cybersecurity & Linux User              │  ██╔██╗ ██║██║   ██║   ██║███████╗███████║
+│ ⚡ Building production-grade apps           │  ██║╚██╗██║██║   ██║   ██║╚════██║██╔══██║
+│ 🎯 Open-source & Hackathons Veteran        │  ██║ ╚████║██║   ██║   ██║███████║██║  ██║
+│ 🕹️ Gaming & AI/ML Enthusiast               │  ╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚══════╝╚═╝  ╚═╝
+                                            └────────────────────────────────────────────┘
   </pre>
-  <img src="./public/space_shooter.gif" alt="Nikhil Kumar" />
+  <img src="./public/space_shooter.gif" alt="Nitish Kumar" />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
@@ -68,8 +68,8 @@
 <div align="center">
   <h1>📈 Coding Activity</h1>
   <br>
-  <a href="https://leetcode.com/u/leonitish7/">
-    <img src="https://leetcard.jacoblin.cool/leonitish7?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10&animation=true" alt="LeetCode Stats">
+  <a href="https://leetcode.com/u/nk10student/">
+    <img src="https://leetcard.jacoblin.cool/nk10student?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10&animation=true" alt="LeetCode Stats">
   </a>
   <br><br>
   <pre align="center" style="background: #0d1117; padding: 10px; border-radius: 10px; color: #e6edf3; font-family: 'Fira Code', monospace; width: 600px;">
@@ -105,9 +105,7 @@
       <td>• Responsive UI/UX components<br>• Agile + Git workflows<br>• Cross-browser optimization</td>
     </tr>
     <tr>
-      <td>🌟 <b>Open-Source Developer</b><br><i>@ GoFr & GSSoC</i></td>
-      <td>Jun 2025 – Sep 2025</td>
-      <td>• JWT authentication dashboards<br>• Production-ready backend APIs<br>• Code reviews & documentation</td>
+       authentication dashboards<br>• Production-ready backend APIs<br>• Code reviews & documentation</td>
     </tr>
     <tr>
       <td>👨‍💻 <b>Software Engineer</b><br><i>@ WeBuiltU</i></td>
@@ -238,20 +236,20 @@
       <td width="50%">Top 15% globally • 200+ DSA problems solved</td>
     </tr>
     <tr>
-      <td align="center"><b>🥇 SIH Finalist</b></td>
-      <td>Smart India Hackathon 2024 • 6-member team lead</td>
+      <td </b></td>
+      <td></td>
     </tr>
     <tr>
       <td align="center"><b>🎖️ NDA SSB Merit</b></td>
       <td>All-India Rank in final merit list</td>
     </tr>
     <tr>
-      <td align="center"><b>👥 Co-Founder</b></td>
-      <td>WeBuilt_U • Technical leadership</td>
+      <td align="center"><b></b></td>
+      <td></td>
     </tr>
     <tr>
-      <td align="center"><b>🌟 Open Source</b></td>
-      <td>Active contributor @ GoFr, GSSoC</td>
+      <td align="center"><b></b></td>
+      <td></td>
     </tr>
     <tr>
       <td align="center"><b>🚀 Production Scale</b></td>
@@ -262,8 +260,8 @@
       <td>6,000+ monthly transactions processed</td>
     </tr>
     <tr>
-      <td align="center"><b>🎯 Hackathons</b></td>
-      <td>6+ participations with multiple wins</td>
+      <td align="center"><b></b></td>
+      <td></td>
     </tr>
   </table>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -279,14 +277,10 @@
       <th width="20%">Issuer</th>
     </tr>
     <tr>
-      <td>🗄️ <b>Database</b></td>
-      <td>MongoDB Associate Database Administrator</td>
-      <td>MongoDB</td>
+      <td
     </tr>
     <tr>
-      <td>☁️ <b>Cloud</b></td>
-      <td>Oracle Cloud Infrastructure AI Foundations Associate</td>
-      <td>Oracle</td>
+      <td>
     </tr>
     <tr>
       <td>🔒 <b>Security</b></td>
@@ -299,44 +293,29 @@
       <td>ISO</td>
     </tr>
     <tr>
-      <td>🧪 <b>Testing</b></td>
-      <td>Professional Diploma - Software Testing & QA</td>
-      <td>ISTQB</td>
+      <td>
     </tr>
     <tr>
-      <td>📈 <b>Analytics</b></td>
-      <td>Google Analytics</td>
-      <td>Google</td>
+      <td> 
+    <tr>
+      <td>
+    <tr>
+      <td></td>
     </tr>
     <tr>
-      <td>☁️ <b>Cloud</b></td>
-      <td>AWS S3 Basics</td>
-      <td>Amazon Web Services</td>
+      <td></td>
     </tr>
     <tr>
-      <td>🤖 <b>Data Science</b></td>
-      <td>Cisco Data Science</td>
-      <td>Cisco</td>
+      <td>
+        </td>
     </tr>
     <tr>
-      <td>🔄 <b>Agile</b></td>
-      <td>Agile Scrum Master</td>
-      <td>Scrum Alliance</td>
+      <td>
+        </td>
     </tr>
     <tr>
-      <td>🐙 <b>Version Control</b></td>
-      <td>GitHub Foundations</td>
-      <td>GitHub</td>
-    </tr>
-    <tr>
-      <td>⛓️ <b>Web3</b></td>
-      <td>Professional Diploma - Web3 & NFT Business</td>
-      <td>Blockchain Council</td>
-    </tr>
-    <tr>
-      <td>🖼️ <b>NFT</b></td>
-      <td>Professional Diploma - Software Testing & QA</td>
-      <td>Blockchain Council</td>
+      <td>
+        </td>
     </tr>
   </table>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
